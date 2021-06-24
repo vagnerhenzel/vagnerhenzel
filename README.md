@@ -2,7 +2,7 @@
 - 👀 I’m interested in get new skill in software development and data analysis
 - 🌱 I’m currently learning dev full-stack, BI and data science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me vagner.henzel@gmai.com
+- 📫 How to reach me vagner.henzel@gmail.com
 
 <!---
 vagnerhenzel/vagnerhenzel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
